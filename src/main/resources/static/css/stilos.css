@@ -1,0 +1,90 @@
+#encabezado {
+    top: 0;
+    left: 0;
+    height: 7.5%;
+    width: 100%;
+    text-align: center;
+    background-color: lightsteelblue;
+    position: fixed;
+    text-align-all: center;
+    
+   
+    
+    
+}
+
+#menu {
+    top: 7.5%;
+    left: 0;
+    height: 5%;
+    width: 100%;
+    text-align: center;
+    background-color: pink;
+    position: fixed;
+    
+}
+
+#barraLateral {
+    top: 12.5%;
+    left: 0;
+    height: 95%;
+    width: 50%;
+    background-color: lightslategray;
+    position: fixed;
+}
+
+#contenido {
+    top: 12.5%;
+    left: 50%;
+    height: 95%;
+    width: 50%;
+    background-color: lightskyblue;
+    position: fixed;
+}
+
+#contenidoTotal {
+    top: 12.5%;
+    left: 0%;
+    height: 95%;
+    width: 100%;
+    background-color: ghostwhite;
+    position: fixed;
+}
+
+#piePagina {
+    bottom: 0%;
+    left: 0%;
+    height: 2.5%;
+    width: 100%;
+    text-align: center;
+    background-color: pink;
+    position: fixed;
+}
+
+.parrafoRojo {
+    color: red;
+}
+
+/*p{
+    font-size: 20px;
+}*/
+
+div p {
+    font-size: 15px;
+}
+
+:visited {
+    
+}
+
+:hover {
+    background-color: gray;
+    color: white;
+    transition: 1s;
+    
+}
+
+:active {
+    background-color: gray;
+    
+}
